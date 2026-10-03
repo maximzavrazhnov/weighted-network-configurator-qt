@@ -1,0 +1,135 @@
+Broken : 0
+Full 2
+Got from 1 to 4
+Player 1: 2 3 
+Player 2: 1 
+Player 3: 1 4 
+Player 4: 3 
+
+
+
+Full 3
+Broken : 3
+Got from 1 to 3
+Player 1: 2 4 
+Player 2: 1 
+Player 3: 4 
+Player 4: 1 3 
+
+
+
+Got from 0 to 4
+Player 1: 2 
+Player 2: 1 3 
+Player 3: 2 4 
+Player 4: 3 
+
+
+
+Got from 0 to 3
+Player 1: 2 
+Player 2: 1 4 
+Player 3: 4 
+Player 4: 2 3 
+
+
+
+Got from 0 to 3
+Player 1: 2 
+Player 2: 1 
+Player 3: 4 
+Player 4: 3 
+
+
+
+Full 5
+Got from 1 to 3
+Player 1: 3 4 
+Player 2: 4 
+Player 3: 1 
+Player 4: 1 2 
+
+
+
+Broken : 5
+Got from 0 to 4
+Player 1: 3 
+Player 2: 3 4 
+Player 3: 1 2 
+Player 4: 2 
+
+
+
+Got from 0 to 2
+Player 1: 3 
+Player 2: 4 
+Player 3: 1 4 
+Player 4: 2 3 
+
+
+
+Got from 0 to 2
+Player 1: 3 
+Player 2: empty 
+Player 3: 1 4 
+Player 4: 3 
+
+
+
+Got from 0 to 3
+Player 1: 4 
+Player 2: 3 4 
+Player 3: 2 
+Player 4: 1 2 
+
+
+
+Got from 0 to 2
+Player 1: 4 
+Player 2: 3 
+Player 3: 2 4 
+Player 4: 1 3 
+
+
+
+Got from 0 to 2
+Player 1: 4 
+Player 2: 4 
+Player 3: empty 
+Player 4: 1 2 
+
+
+
+Got from 0 to 2
+Player 1: 4 
+Player 2: empty 
+Player 3: 4 
+Player 4: 1 3 
+
+
+
+Broken : 6
+Got from 0 to 2
+Player 1: empty 
+Player 2: 3 
+Player 3: 2 4 
+Player 4: 3 
+
+
+
+Got from 0 to 2
+Player 1: empty 
+Player 2: 4 
+Player 3: 4 
+Player 4: 2 3 
+
+
+
+Got from 0 to 2
+Player 1: empty 
+Player 2: empty 
+Player 3: 4 
+Player 4: 3 
+
+
+
