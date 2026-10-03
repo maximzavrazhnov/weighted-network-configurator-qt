@@ -106,7 +106,7 @@ More detail: [docs/ALGORITHM.md](docs/ALGORITHM.md).
 ## Original source and cleanup
 
 The original archive included Visual Studio/Qt build artefacts and IDE caches.
-They are intentionally excluded from the public repository.
+They are excluded from the public repository.
 
 The unchanged extracted source is still available under
 [`legacy/original-source`](legacy/original-source). The public `src/` tree applies
